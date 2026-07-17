@@ -145,19 +145,6 @@ PartnerIQ is a prototype designed to modernize employee learning, onboarding, an
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaiswal-nandini&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-nandini&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=jaiswal-nandini&theme=tokyonight" />
-</p>
-
----
-
 # 🌱 Currently Exploring
 
 - 🤖 Artificial Intelligence & Generative AI
