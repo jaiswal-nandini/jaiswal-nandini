@@ -56,7 +56,7 @@ EduInsight is a full-stack educational analytics platform that helps institution
 
 **Tech Stack**
 
-`Python` • `FastAPI` • `React` • `MySQL` • `SQLAlchemy` • `Power BI`
+`Python` • `FastAPI` • `React` • `MySQL` • `SQLAlchemy`
 
 ---
 
@@ -78,7 +78,7 @@ KarenTalks is an AI-powered debate engine that enables users to engage in struct
 
 **Tech Stack**
 
-`React` • `TypeScript` • `Node.js` • `Express` • `Tailwind CSS` • `AI APIs`
+`Streamlit` • `Python`
 
 ---
 
@@ -102,7 +102,7 @@ PartnerIQ is a prototype designed to modernize employee learning, onboarding, an
 
 **Tech Stack**
 
-`React` • `TypeScript` • `Tailwind CSS` • `Node.js` • `Express`
+`React`• `Html` • `Tailwind CSS` • `Node.js` • `Express`
 
 ---
 
