@@ -113,9 +113,6 @@ A group project exploring how AI can be used to create a structured debate exper
 **LinkedIn:**
 https://www.linkedin.com/in/nandini-jaiswal262/
 
-**GitHub:**
-https://github.com/jaiswal-nandini
-
 **Email:**
 [nandinijaiswal262@gmail.com](mailto:nandinijaiswal262@gmail.com)
 
